@@ -1,4 +1,4 @@
-![](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=tutorials--agent-observability-with-qualifire--readme)
+![logo](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/download.jpg)
 
 # Agent observability with Qualifire 🔥
 
