@@ -38,6 +38,13 @@ Modern AI applications increasingly rely on sophisticated, multi-step AI agents.
 ## NEW API KEY
 ![new-api-key](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/new-api-key.png
 )
+## WAIT FOR LOGS  
+![wait-for-logs](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/wait-for-logs.png)
+## TRACE TABLE
+![trace-table](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/traces-table.png
+)
+## FULL TRACE
+![full-trace](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/full-trace.png)
 ## 📚 Tutorial
 
 **[Start the hands-on tutorial here: agent-observability-with-qualifire.ipynb](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/agent-observability-with-qualifire.ipynb)**
