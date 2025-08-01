@@ -1,0 +1,9 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langgraph==0.4.3
+requests==2.32.3
+SQLAlchemy==2.0.22
+qualifire==0.9.0
+ipywidgets==8.1.7
+groq==0.9.0
