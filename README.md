@@ -35,4 +35,4 @@ Modern AI applications increasingly rely on sophisticated, multi-step AI agents.
 
 ## 📚 Tutorial
 
-**[Start the hands-on tutorial here: agent-observability-with-qualifire.ipynb](./agent-observability-with-qualifire.ipynb)**
+**[Start the hands-on tutorial here: agent-observability-with-qualifire.ipynb](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/agent-observability-with-qualifire.ipynb)**
