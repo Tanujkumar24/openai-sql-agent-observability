@@ -32,7 +32,8 @@ Modern AI applications increasingly rely on sophisticated, multi-step AI agents.
 1. Setup tracing and observability in your LangGraph agent
 2. Debug and troubleshoot your agent
 3. Get real-time agent observability using Qualifire
-
+##
+![api-key-form](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/api-key-form.png)
 ## 📚 Tutorial
 
 **[Start the hands-on tutorial here: agent-observability-with-qualifire.ipynb](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/agent-observability-with-qualifire.ipynb)**
