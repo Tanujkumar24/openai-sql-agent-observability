@@ -33,6 +33,7 @@ Modern AI applications increasingly rely on sophisticated, multi-step AI agents.
 2. Debug and troubleshoot your agent
 3. Get real-time agent observability using Qualifire
 ##
+API FORM
 ![api-key-form](https://github.com/Tanujkumar24/openai-sql-agent-observability/blob/main/api-key-form.png)
 ## 📚 Tutorial
 
